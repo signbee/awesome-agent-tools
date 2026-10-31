@@ -84,6 +84,7 @@ High-signal neural search engines, Markdown web scrapers, and headless cloud bro
 - **[Tavily MCP (`tavily-mcp`)](https://github.com/tavily-ai/tavily-mcp)** — Real-time web search and grounded extraction API purpose-built for RAG and autonomous research agents.
 - **[Browserbase & Stagehand MCP](https://github.com/browserbase/mcp-server-browserbase)** — Cloud headless browser infrastructure paired with Stagehand (`act`, `extract`, `observe`) for resilient browser automation.
 - **[Playwright MCP (`@playwright/mcp`)](https://github.com/microsoft/playwright-mcp)** — Microsoft's official Playwright MCP server using accessibility snapshots (instead of fragile pixel screenshots) for fast, deterministic browser actions.
+- **[agent-qa MCP](https://vostride.com)** — Local MCP server that runs web and mobile tests with reviewable evidence, memidex persistent memory and validated self-improvement.
 - **[Crawl4AI](https://github.com/unclecode/crawl4ai)** — Open-source LLM-friendly web crawler and scraper generating clean Markdown and structured extractions.
 - **[Jina Reader (`r.jina.ai`)](https://github.com/jina-ai/reader)** — Prepend `https://r.jina.ai/` to any URL to convert complex web pages into clean LLM-friendly Markdown.
 - **[Perplexity Sonar MCP](https://github.com/pplx-ai/modelcontextprotocol)** — Official Perplexity MCP server bringing citation-backed live web reasoning directly into Claude and Cursor.
