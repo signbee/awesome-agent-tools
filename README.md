@@ -14,6 +14,7 @@ Maintained by **[Signb.ee](https://signb.ee)** — *Document signing built for A
 - [Web Search, Scraping & Browser Automation](#web-search-scraping--browser-automation)
 - [Databases, Vector Stores & Memory](#databases-vector-stores--memory)
 - [Code Execution, Sandboxes & Cloud Infra](#code-execution-sandboxes--cloud-infra)
+- [Network Diagnostics](#network-diagnostics)
 - [CRM, Scheduling & Productivity](#crm-scheduling--productivity)
 - [Multi-Tool Gateways & Orchestration](#multi-tool-gateways--orchestration)
 - [Contributing](#contributing)
@@ -126,6 +127,14 @@ Secure microVM sandboxes, serverless GPU containers, and cloud deployment APIs t
 - **[AWS MCP Servers (`awslabs/mcp`)](https://github.com/awslabs/mcp)** — Official AWS Labs MCP servers for CDK, Bedrock Knowledge Bases, Cost Analysis, Lambda, and Terraform infrastructure.
 - **[Pulumi MCP (`@pulumi/mcp-server`)](https://github.com/pulumi/mcp-server)** — Provision, preview, and update cloud infrastructure-as-code stacks across AWS, GCP, and Azure via MCP.
 - **[Fly.io Machines API](https://fly.io/docs/machines/api/)** — Fast-booting hardware-virtualized microVMs with REST API control for per-session agent environments.
+
+---
+
+## Network Diagnostics
+
+Local connection checks for agents investigating failed requests and dependency downloads on the machine where they run.
+
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** — Gives agents local macOS 14+ DNS, route, latency and host-connectivity diagnostics through stdio MCP (GPL-3.0-only; Xcode 16+ source build).
 
 ---
 
