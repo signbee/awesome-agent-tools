@@ -134,7 +134,7 @@ Secure microVM sandboxes, serverless GPU containers, and cloud deployment APIs t
 
 Local connection checks for agents investigating failed requests and dependency downloads on the machine where they run.
 
-- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** — Gives agents local macOS 14+ DNS, route, latency and host-connectivity diagnostics through stdio MCP (GPL-3.0-only; Xcode 16+ source build).
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** — Gives agents local macOS 14+ DNS, route, latency and host-connectivity diagnostics through stdio MCP (GPL-3.0-only code; Xcode 16+ source build).
 
 ---
 
