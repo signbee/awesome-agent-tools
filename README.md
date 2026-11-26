@@ -155,6 +155,7 @@ Managed tool routers, MCP registries, OAuth brokers, and multi-agent frameworks 
 - **[Smithery (`smithery.ai`)](https://smithery.ai)** — Package registry and CLI (`npx @smithery/cli`) for discovering, installing, and hosting 4,000+ Model Context Protocol servers.
 - **[Glama MCP Directory (`glama.ai/mcp`)](https://glama.ai/mcp/servers)** — Comprehensive open directory and security scanner for MCP servers with live playground testing.
 - **[MCP.so (`chatmcp/mcpso`)](https://mcp.so)** — Community-driven index and hosted gateway for discovering and connecting Model Context Protocol servers.
+- **[Anclum (`skilltide-mcp`)](https://github.com/wdfdaivd/skilltide-mcp)** — Read-only MCP server that searches 7,600+ MCP servers, agent skills and AI tools by the task an agent is working on, and returns every hit with a link back to its source repository or listing (stdio locally, or Streamable HTTP at `https://anclum.com/mcp`).
 - **[Composio](https://github.com/ComposioHQ/composio)** — Managed OAuth and tool-calling gateway with 250+ pre-built integrations for Claude, OpenAI, LangGraph, and CrewAI.
 - **[Arcade.dev](https://github.com/ArcadeAI/arcade-ai)** — Authenticated tool-calling runtime handling per-user OAuth 2.0 tokens for Gmail, Slack, GitHub, and enterprise APIs.
 - **[Pipedream MCP (`mcp.pipedream.com`)](https://github.com/PipedreamHQ/awesome-mcp-servers)** — Hosted MCP servers for 2,500+ APIs backed by Pipedream's managed OAuth and serverless workflow engine.
